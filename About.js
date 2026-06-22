@@ -1,6 +1,7 @@
 window.onload = function () {
     alert("Welcome to the About Department Page!");
 };
+
 const heading = document.querySelector("h1");
 
 heading.addEventListener("click", function () {
